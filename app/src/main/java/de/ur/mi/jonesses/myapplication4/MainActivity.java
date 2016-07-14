@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Irgendein Log
-        Log.d("TESTLOG", "Jonas mag Bitbucket lieber");
+        Log.d("TESTLOG", "Jonas mag GitHub meistens gerne, aber Bitbucket lieber");
     }
 }
